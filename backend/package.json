@@ -1,0 +1,18 @@
+{
+  "name": "note-bits-app",
+  "version": "1.0.0",
+  "description": "A learning implementation of MERN Stack for Full Stack Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Selviraja Pasagadugula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
